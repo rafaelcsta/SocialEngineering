@@ -8,4 +8,7 @@ Além disso, estar como administrador no cmd
 
 Não precisa instalar nada, E NÃO ENTRE
 NO DIRETÓRIO DO PYINSTALLER-4.0 NÃO TEM NADA ALÉM DE MÓULOS
- 
+
+----------------------------------------------------------------------------
+
+Caso tenha dificuldades fazer via linux com parrot apt install pyinstaller e repita os processos
