@@ -1,0 +1,10 @@
+Caminho onde devem estar os aquivos
+C:\Python27\Scripts\
+
+1- Copiar o cóigo em python, arquivo.ico para a pasta acima
+Além disso, estar como administrador no cmd
+
+2- .\pyinstaller.exe codepdf.py --onefile --windowed --icon=cartilha.ico
+
+Não precisa instalar nada, E NÃO ENTRE
+NO DIRETÓRIO DO PYINSTALLER-4.0 NÃO TEM NADA ALÉM DE MÓULOS
